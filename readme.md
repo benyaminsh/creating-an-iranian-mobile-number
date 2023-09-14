@@ -19,16 +19,15 @@
 
 ## دستورات اجرا کردن برنامه
 
-#
+</div>
 
-#### نصب پکیج های لازم 
+#### Install Packages 
     pip install -r requirements.txt
 
-#
 
-#### اجرای برنامه 
+
+#### Run Project
     python main.py
 
 
 
-</div>
